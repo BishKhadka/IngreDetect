@@ -24,6 +24,8 @@ I have deployed the MERN app on Render.com.
 Here is the link to the
 [website](https://ingredetect.me).
 
+I have used a free-server, which spin down after periods of inactivity, so there might be a 45-60 seconds wait during the initial load.
+
 ## 📐 Architecture
 
 <img width="1165" alt="Architecture" src="https://github.com/BishKhadka/IngreDetect/assets/12107885/01dd4837-fba4-49d5-bf12-0ca91144b8d4">
