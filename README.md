@@ -24,7 +24,7 @@ I have deployed the MERN app on Render.com.
 Here is the link to the
 [website](https://ingredetect.me).
 
-I have used a free-server, which spin down after periods of inactivity, so there might be a 45-60 seconds wait during the initial load.
+I have used a free-server, which spins down after periods of inactivity, so there might be a 45-60 seconds wait during the initial load.
 
 ## 📐 Architecture
 
